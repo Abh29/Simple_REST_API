@@ -1,0 +1,4 @@
+insert into STREAMS(id, title, description, url, start_date, end_date) values ('a4a89088-381c-472e-bb61-8d4f5e9e5e12', 'title1', 'this is a description1', 'someUrl.com', now(), now());
+insert into STREAMS(id, title, description, url, start_date, end_date) values ('f2f2cd3d-36cd-43da-a195-2ac823cbcacd', 'title2', 'this is a description2', 'someUrl.com', now(), now());
+insert into STREAMS(id, title, description, url, start_date, end_date) values ('953601d9-2714-4371-ba92-279f11b9d3aa', 'title3', 'this is a description3', 'someUrl.com', now(), now());
+insert into STREAMS(id, title, description, url, start_date, end_date) values ('2ba3d374-0ba8-46c5-bd13-04f1cfa0ec10', 'title4', 'this is a description4', 'someUrl.com', now(), now());
